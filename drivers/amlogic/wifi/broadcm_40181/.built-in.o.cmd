@@ -1,0 +1,1 @@
+cmd_drivers/amlogic/wifi/broadcom/broadcm_40181/built-in.o :=  rm -f drivers/amlogic/wifi/broadcom/broadcm_40181/built-in.o; /ws1/dvlp/mygits/banditOS-v16/build.banditOS-Amlogic.M8S.arm-6.0.0.2/toolchain/bin/armv7a-openelec-linux-gnueabi-ar rcsD drivers/amlogic/wifi/broadcom/broadcm_40181/built-in.o
