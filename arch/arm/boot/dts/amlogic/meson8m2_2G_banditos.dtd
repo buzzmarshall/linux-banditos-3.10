@@ -138,7 +138,7 @@ void root_func(){
                 vmode = <3>; /**0:VMODE_720P 1:VMODE_LCD  2:VMODE_LVDS_1080P 3:VMODE_1080P*/
 		scale_mode = <1>; /*0:default 1:new*/
 		4k2k_fb = <1>;
- 		display_size_default = <1920 1080 1920 3240 32>; //1920*1080*4*3 = 0x17BB000
+ 		display_size_default = <0x780 0x438 0x780 0xca8 0x20>; //1920*1080*4*3 = 0x17BB000
 	};
 
 //$$ DEVICE="deinterlace"
